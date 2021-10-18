@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JSoares7
 - 👀 I’m interested in Laravel and its ecosystem
 - 🌱 I’m currently (ever) learning Laravel
-- 📫 You can reach at [@jcasoares](https://twitter.com/jcasoares) or via [njsdigital](https://njsdigital.com)
+- 📫 You can reach at [@jcasoares](https://twitter.com/jcasoares) or via [njsdigital](http://www.njsdigital.com)
 
 <!---
 JSoares7/JSoares7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
